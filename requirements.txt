@@ -1,0 +1,8 @@
+Streamlit 
+Pandas
+Numpy
+Plotly.express
+Plotly.graph_objects
+Plotly.subplots
+datetime, timedelta
+requests
