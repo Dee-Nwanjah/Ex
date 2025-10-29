@@ -1,15 +1,5 @@
-# Create requirements.txt
-# List the libraries used in the project
-requirements = [
-    "streamlit",
-    "pandas",
-    "numpy",
-    "plotly",
-    "requests",
-]
-
-with open("requirements.txt", "w") as f:
-    for req in requirements:
-        f.write(req + "\\n")
-
-print("Created requirements.txt")
+streamlit
+pandas
+numpy
+plotly
+requests
